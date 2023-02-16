@@ -1,5 +1,13 @@
 # example-app
 
+## 0.2.81
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-api-docs@0.9.1
+  - @backstage/plugin-org@0.6.6
+
 ## 0.2.80
 
 ### Patch Changes

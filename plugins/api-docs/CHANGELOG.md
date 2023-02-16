@@ -1,5 +1,11 @@
 # @backstage/plugin-api-docs
 
+## 0.9.1
+
+### Patch Changes
+
+- 095e755d9b: Add ApiDefinitionDialog component for fast access to the API definition in ProvidedApiCards and ConsumedApiCards.
+
 ## 0.9.0
 
 ### Minor Changes

@@ -1,5 +1,11 @@
 # @backstage/plugin-org
 
+## 0.6.6
+
+### Patch Changes
+
+- 36bccb5252: Fix small UI-glitch in MemberListCard
+
 ## 0.6.5
 
 ### Patch Changes
